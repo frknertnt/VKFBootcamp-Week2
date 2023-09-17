@@ -18,10 +18,12 @@ namespace Repositories.EFCore
 
         }
         public DbSet<Book> Books { get; set; }
+        public DbSet<User> Users { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.ApplyConfiguration(new BookConfig());//Model oluşturulurken bu konfigürasyon ifadesi dikkate alınıcak
+            modelBuilder.ApplyConfiguration(new AuthConfig());
         }
     }
 }

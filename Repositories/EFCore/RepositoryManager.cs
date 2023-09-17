@@ -12,6 +12,7 @@ namespace Repositories.EFCore
         //Context üzerinde iş yapacağız o yüzden DI yapısı kuralım
         private readonly RepositoryContext _context;
         private readonly Lazy<IBookRepository> _bookRepository;//Lazy loading kullanarak nesneye ihtiyaç duyulduğu anda erişim sağlanacak
+        private readonly Lazy<IUserRepository> _userRepository;
         public RepositoryManager(RepositoryContext context)
         {
             _context = context;
@@ -19,6 +20,8 @@ namespace Repositories.EFCore
         }
 
         public IBookRepository Book => _bookRepository.Value;//Nesne ancak kullanıldığı anda new lenicek 
+
+        public IUserRepository User => _userRepository.Value;
 
         public void Save()
         {
