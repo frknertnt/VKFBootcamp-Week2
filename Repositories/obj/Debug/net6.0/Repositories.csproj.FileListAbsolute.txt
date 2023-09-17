@@ -1,0 +1,15 @@
+C:\BTKAkademi\API\bsStoreApp\Repositories\bin\Debug\net6.0\Repositories.deps.json
+C:\BTKAkademi\API\bsStoreApp\Repositories\bin\Debug\net6.0\Repositories.dll
+C:\BTKAkademi\API\bsStoreApp\Repositories\bin\Debug\net6.0\Repositories.pdb
+C:\BTKAkademi\API\bsStoreApp\Repositories\bin\Debug\net6.0\Entities.dll
+C:\BTKAkademi\API\bsStoreApp\Repositories\bin\Debug\net6.0\Entities.pdb
+C:\BTKAkademi\API\bsStoreApp\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+C:\BTKAkademi\API\bsStoreApp\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\BTKAkademi\API\bsStoreApp\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+C:\BTKAkademi\API\bsStoreApp\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+C:\BTKAkademi\API\bsStoreApp\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+C:\BTKAkademi\API\bsStoreApp\Repositories\obj\Debug\net6.0\Repositories.csproj.CopyComplete
+C:\BTKAkademi\API\bsStoreApp\Repositories\obj\Debug\net6.0\Repositories.dll
+C:\BTKAkademi\API\bsStoreApp\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+C:\BTKAkademi\API\bsStoreApp\Repositories\obj\Debug\net6.0\Repositories.pdb
+C:\BTKAkademi\API\bsStoreApp\Repositories\obj\Debug\net6.0\ref\Repositories.dll
