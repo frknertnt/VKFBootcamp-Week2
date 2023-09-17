@@ -1,0 +1,11 @@
+C:\BTKAkademi\API\bsStoreApp\Entities\bin\Debug\net6.0\Entities.deps.json
+C:\BTKAkademi\API\bsStoreApp\Entities\bin\Debug\net6.0\Entities.dll
+C:\BTKAkademi\API\bsStoreApp\Entities\bin\Debug\net6.0\Entities.pdb
+C:\BTKAkademi\API\bsStoreApp\Entities\obj\Debug\net6.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\BTKAkademi\API\bsStoreApp\Entities\obj\Debug\net6.0\Entities.AssemblyInfoInputs.cache
+C:\BTKAkademi\API\bsStoreApp\Entities\obj\Debug\net6.0\Entities.AssemblyInfo.cs
+C:\BTKAkademi\API\bsStoreApp\Entities\obj\Debug\net6.0\Entities.csproj.CoreCompileInputs.cache
+C:\BTKAkademi\API\bsStoreApp\Entities\obj\Debug\net6.0\Entities.dll
+C:\BTKAkademi\API\bsStoreApp\Entities\obj\Debug\net6.0\refint\Entities.dll
+C:\BTKAkademi\API\bsStoreApp\Entities\obj\Debug\net6.0\Entities.pdb
+C:\BTKAkademi\API\bsStoreApp\Entities\obj\Debug\net6.0\ref\Entities.dll
